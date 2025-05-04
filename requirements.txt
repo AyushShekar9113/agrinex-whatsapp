@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pymongo
+speechrecognition
+word2number
+requests
+pytz
+gtts
+pygame
+googletrans==4.0.0rc1
+aiofiles
+python-dotenv
+certifi
+httpcore
+httpx
+twilio
